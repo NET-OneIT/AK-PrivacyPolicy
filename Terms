@@ -1,0 +1,87 @@
+Asahi Kasei SMS Terms & Conditions
+Public URL 
+https://www.asahi-kasei.com/sms-terms
+This page describes the Terms & Conditions (“Terms”) governing the SMS messaging service operated by Asahi Kasei for internal business purposes, including OTP delivery, on‑call notifications, and operational alerts.
+
+1. Service Description
+By opting in to the Asahi Kasei SMS service, you agree to receive text messages related to:
+
+On‑call notifications
+Service incidents or urgent IT alerts
+Wi‑Fi guest registration codes
+Other internal operational or security‑related communications
+
+This service is intended strictly for internal staff, contractors, and authorized individuals.
+
+2. Message Frequency (Cadence)
+Message frequency will vary based on operational needs.
+You may receive:
+
+Occasional OTP messages
+On‑call activation notifications
+Incident or escalation alerts during critical events
+
+During periods of elevated operational activity, frequency may temporarily increase.
+
+3. Message & Data Rates
+Standard message and data rates may apply according to your mobile carrier plan.
+Asahi Kasei is not responsible for carrier charges.
+
+4. Opt‑In Consent
+Opt‑in must be collected in a direct and verifiable manner, such as:
+
+Registration forms (IT systems, Wi‑Fi guest registration, ServiceNow workflows)
+Internal onboarding processes
+Text‑based keyword consent (if applicable)
+
+Opt‑in indicates you agree to these Terms and to receive SMS messages described in Section 1.
+
+5. Opt‑Out Instructions
+To stop receiving SMS messages:
+Reply “STOP” at any time.
+You will receive a confirmation message indicating that you have been unsubscribed and will no longer receive notifications unless you opt in again.
+
+6. HELP Instructions
+If you need assistance, reply:
+HELP
+You will receive an automatic support message including:
+
+Brand name (Asahi Kasei)
+IT support contact information
+These support workflows are consistent with internal communication patterns found in Asahi Kasei correspondence, such as the IT service contacts appearing in communications like Business license from Asahi Kasei International IT Europe SAS (which includes direct IT team contact details). 
+
+
+7. Privacy Policy
+Your data will be processed according to the Asahi Kasei SMS Privacy Policy, available at:
+https://raw.githubusercontent.com/NET-OneIT/AK-PrivacyPolicy/refs/heads/main/Privacy
+Data is collected only for operational messaging purposes (OTP, alerts) as defined in documents such as Customer to Twilio LOA 3 (internal operational and security notifications).
+It will not be sold or used for marketing.
+
+8. Eligibility
+This SMS service is available only to:
+
+Asahi Kasei employees
+Contracted personnel
+Authorized visitors requiring OTP or access codes 
+
+
+9. Service Limitations
+Asahi Kasei SMS delivery may be impacted by:
+
+Carrier delays
+Network outages
+Regional regulatory restrictions 
+Device configuration issues
+
+Asahi Kasei is not responsible for message delivery failures outside its control.
+
+10. Contact Information
+For support, please contact the Asahi Kasei IT Service Desk:
+
+Email: it.servicedesk@asahi-kasei.com
+Internal phone directory (local IT team numbers)
+Contact information is consistent with internal communications such as those found in Business license from Asahi Kasei International IT Europe SAS. 
+
+
+11. Changes to These Terms
+Asahi Kasei may update these Terms at any time to comply with legal, operational, or security requirements. Updates will be posted on this publicly accessible page.
